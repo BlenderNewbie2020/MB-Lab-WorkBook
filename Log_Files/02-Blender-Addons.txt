@@ -1,0 +1,60 @@
+# vim:filetype=text:fo=troqlanj:fdm=marker:nodg:nojs:nocin:si:tw=72:ci
+# vim:syntax=html:cinwords=
+#
+
+
+{{{ §§ Community: Enabled
+
+  • Add Curve: Extra Objects
+
+  • Add Mesh: Extra Objects
+
+  • Animation: Corrective shape keys
+
+  • Import-Export: Import Images as Planes
+
+  • Material: Material Library
+
+  • Mesh: Edit Tools 2
+
+  • Mesh: LoopTools
+
+  • Mesh: Relax
+
+  • Node: Node Wrangler
+
+  • Render: Auto Tile Size
+
+  • Rigging: Rigify
+
+}}}
+
+
+{{{ §§ Community: Downloaded
+
+  • 3D View: SCreencast Keys
+
+    https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Screencast_Key_Status_Tool/
+
+
+  • Character: MB-Lab-Rigify
+
+    https://github.com/BlenderNewbie2020/MB-Lab-Rigify
+
+  • Character: MB-Lab
+
+    https://github.com/BlenderNewbie2020/MB-Lab-2.79
+
+
+}}}
+
+
+{{{ §§ Testing
+
+  • Mesh: Show Vertex Groups/Weights
+
+  • Render: Auto Save Render
+
+}}}
+
+
