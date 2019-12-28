@@ -1,0 +1,63 @@
+# vim:filetype=text:fo=troqlanj:fdm=marker:nodg:nojs:nocin:si:tw=72:ci
+# vim:syntax=html:cinwords=
+#
+
+
+{{{ §§ Log Files
+
+  • Log_Files/01-Blender-Defaults.txt
+
+  • Log_Files/02-Blender-Addons.txt
+
+  • Log_Files/03-Blender-Presets.txt
+
+
+
+}}}
+
+
+{{{ §§ Online Resources
+
+  • Online_Resources/bookmarks.txt
+
+    - Online_Resources/bookmarks.txt:23    Add-ons
+    - Online_Resources/bookmarks.txt:29    Compositing
+    - Online_Resources/bookmarks.txt:43    Curves
+    - Online_Resources/bookmarks.txt:53    Node Mathematics
+    - Online_Resources/bookmarks.txt:107   Parametric + Isosurfaces
+    - Online_Resources/bookmarks.txt:121   Procedural Cycles + Nodes
+
+
+  • Online_Resources/ScreenShots.txt
+
+    - Compositing
+
+    - Procedural Texture Projection
+
+    - Parametric Modeling
+
+
+
+  • Online_Resources/URIs.txt
+
+    - Online_Resources/URIs.txt:5  Free3d models
+
+    - Online_Resources/URIs.txt:28 Add-ons
+
+}}}
+
+
+{{{ §§ Transcripts
+
+  • YouTube_Transcripts/00-Project-Outline.txt
+
+  • YouTube_Transcripts/01-Custom-ColorRamps.txt
+
+  • YouTube_Transcripts/02-Toon-Shader.txt
+
+  • YouTube_Transcripts/03-Render-Layers.txt
+
+
+
+}}}
+
