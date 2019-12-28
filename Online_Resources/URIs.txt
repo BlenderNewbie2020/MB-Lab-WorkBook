@@ -1,0 +1,63 @@
+#\C vim:filetype=text:fo=troqlan:fdm=marker:nodg:nojs:nocin:si:tw=72:ci
+# vim:syntax=html:cinwords=
+#
+
+{{{ §§ Free3d models
+
+  • Classroom
+    https://free3d.com/3d-model/lp-hc-132908.html
+
+  • Table And Chairs
+    https://free3d.com/3d-model/table-and-chairs-674896.html
+
+  • Bench
+    https://free3d.com/3d-model/bench-84662.html
+
+  • 4 Chair 2 Tone Dining Set
+    https://free3d.com/3d-model/4-chair-2-tone-dining-set-3998.html
+
+  • School
+    https://free3d.com/3d-model/school-26993.html
+
+  • Wooden Bench
+    https://free3d.com/3d-model/wooden-bench-36164.html
+
+}}}
+
+
+{{{ §§ Add-ons
+
+  • 3D View: SCreencast Keys
+
+    https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Screencast_Key_Status_Tool/
+
+  • Character: MB-Lab-Rigify
+
+    https://github.com/BlenderNewbie2020/MB-Lab-Rigify
+
+  • Character: MB-Lab
+
+    https://github.com/BlenderNewbie2020/MB-Lab-2.79
+
+
+  • Matalogue
+
+    A Blender add-on that displays a list of materials and other node
+    trees right in the toolbar of the Node Editor.
+
+    This makes it easier to switch between different materials while
+    shading, and different compositing setups while working with
+    multiple scenes.
+
+    https://github.com/gregzaal/Matalogue
+
+  • fSpy - blam replacement
+
+    https://github.com/stuffmatic/fSpy-Blender
+
+  • Blam
+
+    https://github.com/stuffmatic/blam
+
+}}}
+
