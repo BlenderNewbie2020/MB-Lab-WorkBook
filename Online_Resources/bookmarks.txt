@@ -1,0 +1,131 @@
+# vim:filetype=text:fo=troqlanj:fdm=marker:nodg:nojs:nocin:si:tw=72:ci
+# vim:syntax=html:cinwords=
+#
+
+{{{ §§ Windows
+
+• https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/
+
+      Creating Symbolic and Hard Links
+
+}}}
+
+{{{ §§ GitHub
+
+  † • https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+
+      GitHub Help - Duplicating a repository
+
+}}}
+
+{{{ §§ Blender
+
+  † Add-ons
+
+    • https://github.com/baldingwizard/Blender-Addons
+
+        Dynamic Mathematics Nodes
+
+  † Compositing
+
+    • https://blender.stackexchange.com/questions/15286/
+
+        Render object twice with different materials
+
+    • https://docs.blender.org/manual/en/2.79/compositing/types/converter/set_alpha.html
+
+        Blender Manual - Set Alpha Node - Colorizing
+
+    • https://blender.stackexchange.com/questions/3092/
+
+        Stack Exchange - object index masking
+
+  † Curves
+
+    • https://docs.blender.org/manual/en/2.79/modeling/curves/properties/data.html
+
+        Blender Manual - Curves - Object Data
+
+    • https://docs.blender.org/manual/en/2.79/modeling/curves/index.html
+
+        Blender Manual - Curves
+
+  † Node Mathematics
+
+    • https://blender.stackexchange.com/questions/23173/
+
+        Stack Exchange - Texture Coordinates
+
+    • https://blender.stackexchange.com/questions/40770/
+
+        Stack Exchange - Color Ramp + Mapping
+
+    • https://blender.stackexchange.com/questions/40120/
+
+        Stack Exchange - Color Ramp
+
+    • https://blender.stackexchange.com/questions/118022/
+
+        Stack Exchange - Dynamic Expressions
+
+    • https://blender.stackexchange.com/questions/42544/
+
+        Stack Exchange - Color Ramp Interpolation
+
+    • https://stackoverflow.com/questions/22607043/
+
+        Stack Overflow - Color gradient algorithm
+
+    • https://blender.stackexchange.com/questions/86205/
+
+        rotate a procedural material
+
+    • https://b3d.interplanety.org/en/rotating-texture-by-nodes/
+
+        Rotating texture by nodes
+
+    • https://b3d.interplanety.org/en/creating-procedural-textures-in-blender/
+
+        Creating procedural textures in Blender – Blender – Interplanety
+
+    • https://b3d.interplanety.org/en/tiling-procedural-textures-in-blender/
+
+        Tiling procedural textures in Blender – Blender – Interplanety
+
+    • https://blender.stackexchange.com/questions/43221/
+
+        Stack Exchange - Wave Texture
+
+    • https://blenderartists.org/t/cylindrical-spherical-mapping-in-cycles-without-uv/626162
+
+        cylindrical - spherical mapping in Cycles without UV
+
+    • https://blender.stackexchange.com/questions/45167/
+
+        cycles - How to create a procedural chevron like texture/material?
+
+  † Parametric + Isosurfaces
+
+    • https://www.renderosity.com/mod/forumpro/?thread_id=2751275
+
+        Modeling a braid parametrically
+
+    • http://www.bugman123.com/Hypercomplex/
+
+        Hypercomplex Fractals
+
+    • http://www.econym.demon.co.uk/isotut/printable.htm
+
+        Isosurface Tutorial: Printer Friendly Version
+
+    • http://www.econym.demon.co.uk/isotut/real.htm#heart1
+
+        Isosurface Tutorial: &quot;Realistic&quot; Shapes
+
+  † Procedural Cycles + Nodes
+
+    • http://www.blenderinsight.com/beginners-guide-to-cycles-nodes-the-procedural-way/
+
+        Beginners guide to cycles nodes, the procedural way
+
+}}}
