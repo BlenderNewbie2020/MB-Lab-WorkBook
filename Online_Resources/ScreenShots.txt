@@ -1,0 +1,46 @@
+# vim:filetype=text:fo=troqlanj:fdm=marker:nodg:nojs:nocin:si:tw=72:ci
+# vim:syntax=html:cinwords=
+#
+
+{{{ §§ Compositing
+
+  • https://blender.stackexchange.com/questions/3092/
+
+    How can i move an object on a separate layer behind another in the
+    compositor
+
+    ../ScreenShots/Compositing-ID-Mask-ex-1.png
+    ../ScreenShots/Compositing-ID-Mask-ex-2.png
+
+
+}}}
+
+
+{{{ §§ Procedural Textures
+
+  • https://blender.stackexchange.com/questions/45167/
+
+    How to create a procedural chevron like texture material
+
+    ../ScreenShots/procedural_cylindrical_projection-1.png
+    ../ScreenShots/procedural_cylindrical_projection-2.png
+    ../ScreenShots/procedural_spherical_projection-1.png
+    ../ScreenShots/procedural_spherical_projection-2.png
+    ../ScreenShots/procedural_spherical_projection-3.png
+
+
+}}}
+
+
+{{{ §§ Parametric Modeling
+
+  • https://www.renderosity.com/mod/forumpro/?thread_id=2751275
+
+    Modeling a braid parametrically
+
+    ../ScreenShots/parametric_braid.jpg
+
+
+
+}}}
+
